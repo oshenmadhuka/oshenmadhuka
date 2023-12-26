@@ -9,5 +9,5 @@ I'm a AI student who is passionate about writing code, solving problems, automat
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
 
-⭐️ From [hazemessam](https://github.com/hazemessam)
-Inspired from [AbdelrahmanBayoumi](https://github.com/abdelrahmanbayoumi)
+⭐️ From [oshenmadhuka](https://www.linkedin.com/in/oshen-madhuka-624346235/)
+Inspired from [AbdelrahmanBayoumi](https://github.com/oshenmadhuka)
