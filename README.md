@@ -7,7 +7,7 @@ I'm a AI student who is passionate about writing code, solving problems, automat
 - 🔭 I’m currently a AI student at Unversity of Moratuwa,Sri Lanka.
 - 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
 - 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) [Gmail](mailto:hazemkwita123@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/oshen-madhuka-624346235/) [Gmail](oshenbhawajith1999@gmail.com)
 
 ⭐️ From [oshenmadhuka](https://www.linkedin.com/in/oshen-madhuka-624346235/)
-Inspired from [AbdelrahmanBayoumi](https://github.com/oshenmadhuka)
+Inspired from [OshenMadhuka](https://github.com/oshenmadhuka)
