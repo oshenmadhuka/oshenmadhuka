@@ -5,7 +5,7 @@
 I'm a AI student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m currently a AI student at Unversity of Moratuwa,Sri Lanka.
-- 📚 I’m currently learning  backend web development using NodeJS, ExpressJS and MongoDB.
+- 📚 I’m currently learning  backend web development using Fastapi and MongoDB.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/oshen-madhuka-624346235/) [Gmail](oshenbhawajith1999@gmail.com)
 
