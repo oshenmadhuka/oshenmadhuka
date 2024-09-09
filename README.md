@@ -15,3 +15,5 @@ Inspired from [OshenMadhuka](https://github.com/oshenmadhuka)
 
 ![Oshen's GitHub stats](https://github-readme-stats.vercel.app/api?username=oshenmadhuka&theme=radical&show_icons=true)   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oshenmadhuka&hide_progress=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oshenmadhuka&show_icons=true)
