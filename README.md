@@ -14,9 +14,10 @@ Inspired by [OshenMadhuka](https://github.com/oshenmadhuka)
 
 <p style="margin-top: 30px; margin-bottom: 20px;">
   <img align="left"  src="https://github-readme-stats.vercel.app/api?username=oshenmadhuka&theme=radical&show_icons=true" alt="oshenmadhuka" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshenmadhuka&theme=radical&hide_progress=true" alt="oshenmadhuka" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oshenmadhuka&theme=radical" alt="oshenmadhuka" />
+  
 </p>
 
 <p align="center" style="margin-top: 30px; margin-bottom: 30px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oshenmadhuka&theme=radical" alt="oshenmadhuka" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshenmadhuka&theme=radical&hide_progress=true" alt="oshenmadhuka" />
 </p>
