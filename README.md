@@ -14,7 +14,7 @@ Inspired from [OshenMadhuka](https://github.com/oshenmadhuka)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=oshenmadhuka&theme=radical&show_icons=true" alt="oshenmadhuka" /></p>
-<br>
+<br/>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshenmadhuka&theme=radical&show&hide_progress=true" alt="oshenmadhuka" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshenmadhuka&" alt="ywchanna2001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshenmadhuka&theme=radical&show" alt="ywchanna2001" /></p>
