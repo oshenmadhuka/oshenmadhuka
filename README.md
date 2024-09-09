@@ -13,7 +13,7 @@ I'm a AI student who is passionate about writing code, solving problems, automat
 Inspired from [OshenMadhuka](https://github.com/oshenmadhuka)
 
 
-<p align="center">
+<p align="center" display= "flex" >
   <img src="https://github-readme-stats.vercel.app/api?username=oshenmadhuka&theme=radical&show_icons=true" alt="Oshen's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshenmadhuka&hide_progress=true" alt="Top Langs" />
 </p>
