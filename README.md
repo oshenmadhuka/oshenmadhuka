@@ -13,4 +13,4 @@ I'm a AI student who is passionate about writing code, solving problems, automat
 Inspired from [OshenMadhuka](https://github.com/oshenmadhuka)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?oshenmadhuka=anuraghazra&theme=radical_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oshenmadhuka&theme=radical_icons=true)
