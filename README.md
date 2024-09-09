@@ -12,9 +12,9 @@ I'm an AI student who is passionate about writing code, solving problems, automa
 ⭐️ From [oshenmadhuka](https://www.linkedin.com/in/oshen-madhuka-624346235/)  
 Inspired by [OshenMadhuka](https://github.com/oshenmadhuka)
 
-<p style="margin-top: 20px; margin-bottom: 20px;">
-  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=oshenmadhuka&theme=radical&show_icons=true" alt="oshenmadhuka" />
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshenmadhuka&theme=radical&hide_progress=true" alt="oshenmadhuka" />
+<p style="margin-top: 30px; margin-bottom: 20px;">
+  <img align="left"  src="https://github-readme-stats.vercel.app/api?username=oshenmadhuka&theme=radical&show_icons=true" alt="oshenmadhuka" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshenmadhuka&theme=radical&hide_progress=true" alt="oshenmadhuka" />
 </p>
 
 <p align="center" style="margin-top: 30px; margin-bottom: 30px;">
