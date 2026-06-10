@@ -6,7 +6,7 @@ I’m a passionate AI student who loves writing code, solving problems, and buil
 
 - 🎓 **AI Undergraduate** at the University of Moratuwa, Sri Lanka  
 - 🔭 Currently learning **Full Stack Development** using **MERN** & **FARM** stacks  
-- 💼 Looking for an **AI Internship**  
+- 💼 Looking for an **AI/ML Engineer Job Opportunities**  
 - 💡 Interested in **automation**, **AI**, and **machine learning**  
 - 📫 How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-OshenMadhuka-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/oshen-madhuka-624346235/) 
